@@ -4,11 +4,11 @@ https://github.com/wilsonli117/kanban-api
 
 Frameworks/libraries used in backend:
 
-Express.js
-MongoDB
-Mongoose
-Bcryptjs
-Passport
+    Express.js
+    MongoDB
+    Mongoose
+    Bcryptjs
+    Passport
 
 To run please create a file called keys.js in ./config/ and paste the following:
 
@@ -25,10 +25,11 @@ Then install dependencies using "npm install" and start the server using "npm ru
 Frontend can be found at:
 https://github.com/wilsonli117/kanban-ui
 
-Frameworks/libraries used in frontned:
-React
-Redux
-Axios
+Frameworks/libraries used in frontend:
+
+    React
+    Redux
+    Axios
 
 To run please install dependencies using "npm install" and then the script "npm run start"
 
