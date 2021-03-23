@@ -33,6 +33,9 @@ Frameworks/libraries used in frontend:
 
 To run please install dependencies using "npm install" and then the script "npm run start"
 
+Here is a video detailing the code and design, as well as a quick demo of the app :
+https://drive.google.com/file/d/1XcFyDFO8D_pTlrFWFmoUJ-UmLaYcbZ1u/view?usp=sharing
+
 Not all MVPs were achieved but given more time, the framework is laid out to tackle them in the future.
 
 
